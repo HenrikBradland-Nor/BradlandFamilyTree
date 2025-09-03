@@ -2616,19 +2616,20 @@ const familyData = {
                                 {
                                   "name": "Laura Brodland",
                                   "children": [
-                                    {
-                                      "name": "Michelle Brodland"
-                                    },
-                                    {
-                                      "name": "Mary Brodland Runevitch"
-                                    },
-                                    {
-                                      "name": "Dan Brodland"
-                                    },
-                                    {
-                                      "name": "Rachel Brodland"
-                                    }
-                                  ]
+                                      {
+                                        "name": "Michelle Brodland"
+                                      },
+                                      {
+                                        "name": "Mary Brodland Runevitch"
+                                      },
+                                      {
+                                        "name": "Dan Brodland"
+                                      },
+                                      {
+                                        "name": "Rachel Brodland"
+                                      }
+                                  }
+                                ]
                             },
                             {
                               "name": "Paul Douglas Brodland",
@@ -3043,3 +3044,4 @@ const familyData = {
   }
 
 };
+
