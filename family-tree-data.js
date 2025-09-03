@@ -2628,8 +2628,9 @@ const familyData = {
                                       {
                                         "name": "Rachel Brodland"
                                       }
-                                  }
-                                ]
+                                   ]
+                                }
+                              ]
                             },
                             {
                               "name": "Paul Douglas Brodland",
@@ -3044,4 +3045,5 @@ const familyData = {
   }
 
 };
+
 
