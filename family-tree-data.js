@@ -2611,7 +2611,24 @@ const familyData = {
                           "children": [
                             {
                               "name": "David Gene Brodland",
-                              "birth_date": "1959-04-05"
+                              "birth_date": "1959-04-05",
+                              "spouses": [
+                                {
+                                  "name": "Laura Brodland",
+                                  "children": [
+                                    {
+                                      "name": "Michelle Brodland"
+                                    },
+                                    {
+                                      "name": "Mary Brodland Runevitch"
+                                    },
+                                    {
+                                      "name": "Dan Brodland"
+                                    },
+                                    {
+                                      "name": "Rachel Brodland"
+                                    }
+                                  ]
                             },
                             {
                               "name": "Paul Douglas Brodland",
@@ -3024,4 +3041,5 @@ const familyData = {
       }
     ]
   }
+
 };
